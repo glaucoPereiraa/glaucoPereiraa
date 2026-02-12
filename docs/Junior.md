@@ -221,7 +221,7 @@ Documento curto ou descrição na PR abordando:
 
 # 9. Autonomia Inicial
 
-## 9.1 Entregar tarefa simples do início ao fim sem ajuda direta
+## 9.1 Entregar tarefa do início ao fim sem ajuda direta
 
 **Critérios:**
 

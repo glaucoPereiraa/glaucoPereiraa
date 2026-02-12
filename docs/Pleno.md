@@ -1,5 +1,3 @@
-# Plano de Evolução — Junior → Pleno
-
 ## 📌 Regras gerais
 
 * Cada atividade deve conter **link da Pull Request, documento ou evidência objetiva**.
@@ -251,28 +249,3 @@ Registro da decisão ou feedback do time.
 **Comprovação:**
 Material apresentado ou feedback do time.
 
----
-
-# 📊 Critério de Promoção para Pleno
-
-O desenvolvedor poderá ser promovido quando demonstrar de forma consistente:
-
-### ✔ Entregas Técnicas
-
-* Funcionalidades médias com **autonomia**
-* Resolução de **problemas não triviais**
-* Código com **boa qualidade e testes**
-
-### ✔ Impacto no Time
-
-* Ajuda ativa a outros devs
-* Reviews úteis e respeitosos
-* Participação real nas decisões
-
-### ✔ Comunicação e Responsabilidade
-
-* Transparência sobre riscos
-* Documentação adequada
-* Postura colaborativa
-
----
